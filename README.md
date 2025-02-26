@@ -53,6 +53,8 @@ Always open to **collaborations** and **open-source contributions**.
 ## GitHub Stats  
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishks07&theme=dark&hide_border=false" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anishks07&show_icons=true&theme=dark" height="180px"/>
+
   
 </p>  
 

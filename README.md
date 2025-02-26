@@ -32,9 +32,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anish-konda&theme=dark&hide_border=false)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anish-konda&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anish-konda&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishks07&theme=dark&hide_border=false)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishks07&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishks07&layout=compact&theme=dark)  
 
 ---
 

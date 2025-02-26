@@ -1,8 +1,7 @@
-## Hi, I'm Anish Sai Konda  
+**## Hi, I'm Anish Sai Konda  
 
 AI & Web Developer passionate about **LLMs, NLP, and Deep Learning**.  
 Currently pursuing **B.Tech CSE (AIML) at GITAM University**.  
-I love building **scalable AI solutions** and **automation workflows**.  
 Always open to **collaborations** and **open-source contributions**.  
 
 ## 📬 Connect with Me  
@@ -34,3 +33,4 @@ Always open to **collaborations** and **open-source contributions**.
 </p>  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=anishks07&color=blue&style=flat-square)  
+**

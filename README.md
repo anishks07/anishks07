@@ -17,7 +17,7 @@ Always open to **collaborations** and **open-source contributions**.
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://leetcode.com/u/AnishKS07/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Leetcode_icon_(2020).svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Leetcode_icon_(2020).svg" alt="Leetcode" width="40" height="40"/>
   </a>
 </p>
 

@@ -4,7 +4,9 @@ AI & Web Developer passionate about **LLMs, NLP, and Deep Learning**.
 B.Tech CSE (AIML) at **GITAM University**.  
 
 Currently contributing at **DevOps-Bot**, improving automation workflows.  
-Always open to **collaborations** and **open-source contributions**.  
+Always open to **collaborations** and **open-source contributions**. 
+
+Experienced in using various LLMs and continuously exploring new models.
 
 ---
 

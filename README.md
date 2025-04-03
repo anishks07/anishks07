@@ -62,10 +62,8 @@ Experienced in using various LLMs and continuously exploring new models.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishks07&layout=compact&theme=dark" height="180px"/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=anishks07&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=percentile&cache_seconds=7200" alt="GitHub Stats"/>
-
- <p align="left">
   <img src="https://leetcard.jacoblin.cool/AnishKS07?theme=dark&font=Baloo" alt="LeetCode Stats"/>
-</p>
+
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishks07&theme=github-dark" />
   

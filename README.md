@@ -1,6 +1,6 @@
 ## Hi, I'm Anish Sai Konda  
 
-AI & Web Developer passionate about using **AI Agents** to its fullest by automating my tasks.  
+AI & Web Developer passionate about leveraging AI Agents to automate tasks efficiently
 B.Tech CSE (AIML) at **GITAM University**.  
 
 Currently contributing at **DevOps-Bot**, improving automation workflows.  

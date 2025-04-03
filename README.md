@@ -61,7 +61,7 @@ Experienced in using various LLMs and continuously exploring new models.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishks07&theme=dark&hide_border=false" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishks07&layout=compact&theme=dark" height="180px"/>
  <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishks07&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anishks07&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Stats"/>
 </p>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishks07&theme=github-dark" />

@@ -1,6 +1,6 @@
 ## Hi, I'm Anish Sai Konda  
 
-AI & Web Developer passionate about using **AI Agents ** to its fullest.  
+AI & Web Developer passionate about using **AI Agents** to its fullest.  
 B.Tech CSE (AIML) at **GITAM University**.  
 
 Currently contributing at **DevOps-Bot**, improving automation workflows.  
@@ -65,11 +65,6 @@ Experienced in using various LLMs and continuously exploring new models.
 
 
   <img src="https://github.com/anishks07/metrics/blob/main/github-metrics.svg" alt="GitHub Metrics" />
-
-
-
-
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishks07&theme=github-dark" />
   
 

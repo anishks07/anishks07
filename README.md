@@ -1,4 +1,4 @@
-## Hi, I'm Anish Sai Konda  
+## Hi, I'm Anish Sai K.T  
 
 AI & Web Developer passionate about leveraging AI Agents to automate tasks efficiently
 B.Tech CSE (AIML) at **GITAM University**.  

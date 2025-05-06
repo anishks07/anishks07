@@ -1,7 +1,8 @@
 ## Hi, I'm Anish Sai K.T  
 
-AI & Web Developer passionate about leveraging AI Agents to automate tasks efficiently
-B.Tech CSE (AIML) at **GITAM University**.  
+AI & Web Developer passionate about leveraging AI Agents to automate tasks efficiently.
+
+Pursuing B.Tech CSE (AIML) at **GITAM University**.  
 
 Currently contributing at **DevOps-Bot**, improving automation workflows.  
 Always open to **collaborations** and **open-source contributions**. 

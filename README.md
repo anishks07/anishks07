@@ -1,16 +1,24 @@
-# 🚀 Anish Sai Konda — Automating the Future with AI & Ops  
+```txt
+╭─────────────────────────────╮
+│  🧠 Anish Sai K.T           │
+│  AI-Driven Ops Engineer     │
+│  Automating the future,     │
+│  one pipeline at a time.    │
+╰─────────────────────────────╯
 
-> *"Turning ideas into intelligent, self-operating systems."*  
+> λ whoami
+A problem-solver obsessed with making systems smarter, faster, and self-healing.  
+I live at the intersection of AI, automation, and scalable cloud architectures.  
+If there’s a repetitive task, I’ll make a bot do it.
 
-I’m an **AI & Web Developer** passionate about building **AIOps & MLOps pipelines** that don’t just work — they **run themselves**.  
-Currently pursuing **B.Tech in CSE (AIML)** at **GITAM University**.  
+> λ uptime
+B.Tech CSE (AIML) @ GITAM University | Contributor @ DevOps-Bot  
+Building, experimenting, and tinkering with LLMs, MLOps stacks, and monitoring tools.
 
-💡 From **LLMs** to **AI Agents**, from **DevOps pipelines** to **cloud deployments**, I thrive on connecting **intelligence + automation** to solve real problems.  
-Currently contributing to **DevOps-Bot** — building smarter workflows, faster deployments, and fewer late nights.  
+> λ motto
+"Don’t just deploy — orchestrate intelligence."
 
-🛠 Always open to **collaborations**, **open-source contributions**, and conversations about the **future of AI automation**.  
-
----
+```
 
 ## 🌐 Let's Connect  
 <p align="left">

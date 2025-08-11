@@ -1,77 +1,64 @@
-## Hi, I'm Anish Sai K.T  
+# 🚀 Anish Sai Konda — Automating the Future with AI & Ops  
 
-AI & Web Developer passionate about leveraging AI Agents to automate tasks efficiently.
+> *"Turning ideas into intelligent, self-operating systems."*  
 
-Pursuing B.Tech CSE (AIML) at **GITAM University**.  
+I’m an **AI & Web Developer** passionate about building **AIOps & MLOps pipelines** that don’t just work — they **run themselves**.  
+Currently pursuing **B.Tech in CSE (AIML)** at **GITAM University**.  
 
-Currently contributing at **DevOps-Bot**, improving automation workflows.  
-Always open to **collaborations** and **open-source contributions**. 
+💡 From **LLMs** to **AI Agents**, from **DevOps pipelines** to **cloud deployments**, I thrive on connecting **intelligence + automation** to solve real problems.  
+Currently contributing to **DevOps-Bot** — building smarter workflows, faster deployments, and fewer late nights.  
 
-Experienced in using various LLMs and continuously exploring new models.
+🛠 Always open to **collaborations**, **open-source contributions**, and conversations about the **future of AI automation**.  
 
 ---
 
-## Connect with Me  
+## 🌐 Let's Connect  
 <p align="left">
   <a href="https://www.linkedin.com/in/anish-sai-k-t-6263a324a/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45"/>
   </a>
   <a href="mailto:anishkst25@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45"/>
   </a>
- <a href="https://leetcode.com/AnishKS07/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-## Languages & Tools  
-<p align="left">
-  <a href="https://devdocs.io/c/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50" height="50"/>
+  <a href="https://leetcode.com/AnishKS07/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45"/>
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="50"/>
+  <a href="https://anishkonda.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="45"/>
   </a>
 </p>
 
 ---
 
-## GitHub Stats  
+## 🛠 Tech Stack & Tools I Play With  
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishks07&theme=dark&hide_border=false" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishks07&layout=compact&theme=dark" height="180px"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,tailwind,cpp,git,github,linux,jenkins,docker,kubernetes,grafana,prometheus,aws,fastapi,vercel,vscode" />
 
-  <img src="https://leetcard.jacoblin.cool/AnishKS07?theme=dark&font=Baloo" alt="LeetCode Stats"/>
-
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishks07&theme=github-dark" />
-  
-
-
-  
-</p>  
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anishks07&color=blue&style=flat-square"/>
 </p>
+
+---
+
+## 📊 My Dev Journey in Numbers  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishks07&theme=tokyonight&hide_border=false" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishks07&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AnishKS07?theme=dark&font=Baloo" alt="LeetCode Stats" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishks07&theme=tokyo-night" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anishks07&color=blue&style=for-the-badge" alt="Profile views"/>
+</p>
+
+---
+
+### ⚡ Fun Fact  
+I believe the best code is the one that **runs flawlessly at 3 AM without waking you up**.

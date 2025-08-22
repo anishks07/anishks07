@@ -40,7 +40,8 @@ Building, experimenting, and tinkering with LLMs, MLOps stacks, and monitoring t
 
 ## 🛠 Tech Stack & Tools I Play With  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,tailwind,cpp,git,github,linux,jenkins,docker,kubernetes,grafana,prometheus,aws,fastapi,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,tailwind,cpp,git,github,linux,jenkins,docker,vercel,vscode" />
+<!--   kubernetes,grafana,prometheus,aws,fastapi, -->
 
 </p>
 

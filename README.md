@@ -17,6 +17,7 @@ Building, experimenting, and tinkering with LLMs, MLOps stacks, and monitoring t
 
 > λ motto
 "Don’t just deploy — orchestrate intelligence."
+
 > I like LATTE(Leveraging AI To Transform Engineering)💀
 
 ```

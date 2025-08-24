@@ -1,6 +1,6 @@
 ```txt
 ╭─────────────────────────────╮
-│  🧠 Anish Sai K.T           │
+│   Anish Sai K.T           │
 │  AI-Driven Ops Engineer     │
 │  Automating the future,     │
 │  one pipeline at a time.    │
@@ -17,6 +17,7 @@ Building, experimenting, and tinkering with LLMs, MLOps stacks, and monitoring t
 
 > λ motto
 "Don’t just deploy — orchestrate intelligence."
+> I like LATTE(Leveraging AI To Transform Engineering)💀
 
 ```
 

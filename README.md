@@ -1,6 +1,6 @@
 ```txt
 ╭─────────────────────────────╮
-│   Anish Sai K.T           │
+│   Anish Sai K.T             │
 │  AI-Driven Ops Engineer     │
 │  Automating the future,     │
 │  one pipeline at a time.    │

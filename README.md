@@ -12,7 +12,7 @@ I live at the intersection of AI, automation, and scalable cloud architectures.
 If there’s a repetitive task, I’ll make a bot do it.
 
 > λ uptime
-B.Tech CSE (AIML) @ GITAM University | Contributor @ DevOps-Bot  
+B.Tech CSE (AIML) @ GITAM University | Contributor @meetCrow 
 Building, experimenting, and tinkering with LLMs, MLOps stacks, and monitoring tools.
 
 > λ motto
